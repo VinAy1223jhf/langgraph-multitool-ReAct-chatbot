@@ -20,6 +20,8 @@ Think → Act (tool call) → Observe → Decide → Respond.
 
 START → Assistant → Tools → Assistant → END
 
+<img width="1412" height="468" alt="image" src="https://github.com/user-attachments/assets/d220dda3-898d-412f-966f-f4f4cd4b5b1d" />
+
 
 The assistant can loop between tools (Wikipedia, Arxiv, Web Search) based on reasoning logic defined in the graph.
 
